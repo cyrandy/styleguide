@@ -13,7 +13,7 @@
 * always start a new line for each selector and declaration
 
 ## Simple Example
-```
+```sass
 .foo
     .bar
         .you-are-here,
