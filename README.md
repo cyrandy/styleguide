@@ -14,11 +14,11 @@
 
 ## Simple Example
 ```
-.foo {
-    .bar {
+.foo
+    .bar
         .you-are-here,
         .fb-icon,
-        .twitter-icon {
+        .twitter-icon
             // no more indent here!
             weight: 100px
             height: 100px
@@ -28,9 +28,6 @@
             
             background-color: #000
             color: #fff
-        }
-    }
-}
 ```
 
 
