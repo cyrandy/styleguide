@@ -19,6 +19,7 @@
         .you-are-here,
         .fb-icon,
         .twitter-icon {
+            // no more indent here!
             weight: 100px
             height: 100px
             
