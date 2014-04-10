@@ -4,7 +4,7 @@
 
 * four (4) space indents
 
-* Naming: use hyphen delimited classes (e.g. `.foo-bar`, not `.foo_bar` or `.fooBar`)
+* Naming: use hyphen delimited classes and in lowercase (e.g. `.foo-bar`, not `.foo_bar` or `.fooBar`)
 
 * maximum nesting: three levels deep
 
